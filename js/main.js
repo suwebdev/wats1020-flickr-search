@@ -69,6 +69,10 @@ $(document).on('ready', function(){
      });
  	 });  
  
+});  
+
+
+
 
 
 
